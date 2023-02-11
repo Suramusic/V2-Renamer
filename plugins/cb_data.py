@@ -22,7 +22,7 @@ API_ID = int(os.environ.get("API_ID", "24531402"))
 
 API_HASH = os.environ.get("API_HASH", "0f75926e95a476ccff47dacb52079053")
 
-STRING = os.environ.get("STRING", "BQGEXo8AfsYvGTfRa0UEAR94UKooNAUQTfj72qvo7xjnwS1QBrMfi0WEth4AKl2eaW7R_wOjokdz-0matJif0O0G9zcLqyFa5jvdixBuiGEDXchugzczmWUIzzo7MZ554nfiLVnEAEr3IQkZ3VngSdnTJjakmuxQcyH0BzL9RST3npv1AZtkvqOpIcWmAJcSs4lC1ix_AE_kuQO-vPQVsaHXpbeoq_BX8-h9CfpnllavR243O2KXM3AHTBEYdqOdVyWLTHjoJYADo1s_nlwWdDmFogCQeOSARDFdyuxITC1yYPREwhQWIrr_VVlGyjyVfEr8ATr0k6i5skg4HKrUeQoJSn-tEQAAAAFKgegzAA")
+STRING = os.environ.get("STRING", "")
 
 ADMIN = os.environ.get("ADMIN", "1471469091")
 
